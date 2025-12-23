@@ -17,7 +17,7 @@
     "grunt-jsonminify": "^1.1.0",
     "grunt-rename-util": "^1.0.0",
     "grunt-text-replace": "^0.4.0",
-    "popper.js": "^1.12.9",
+    "popper.js": "^1.16.1",
     "uglify-js": "^3.1.3"
   }
 }
